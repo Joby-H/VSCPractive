@@ -11,3 +11,7 @@ p
 {
     background-color: gray;
 }
+img
+{
+    border: 1pt solid #ff00ff;
+}
